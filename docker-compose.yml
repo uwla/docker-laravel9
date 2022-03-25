@@ -17,9 +17,9 @@ services:
       - .:/var/www/localhost
     user: nobody
     depends_on:
-      - laravel-app-db
+      - laravel-db
 
-  laravel-app-db:
+  laravel-db:
     image: mysql:5.7
     container_name: ${CONTAINER_NAME_DB}
     restart: unless-stopped
