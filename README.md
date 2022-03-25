@@ -1,7 +1,7 @@
-# LARAVEL 9 ON ALPINE DOCKER CONTAINER
+# LARAVEL 9 ON DOCKER ALPINE CONTAINER
 
-This repository is a template to up a Laravel 9 application on a Alpine Docker
-container, which is know for being lightweight and secure.
+This repository is a template to set up a Laravel 9 application on a Docker Alpine
+container, which is known for being lightweight and secure.
 
 ## LICENSE
 
