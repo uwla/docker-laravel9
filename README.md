@@ -6,7 +6,3 @@ container, which is known for being lightweight and secure.
 ## LICENSE
 
 MIT
-
-## AUTOR
-
-[André Souza Abreu](https://github.com/AndreSouzaAbreu)
